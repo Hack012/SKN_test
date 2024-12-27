@@ -27,6 +27,7 @@ if st.button(f'{my_cat} 환영하기'):
     st.success(f"{my_cat} 쓰다듬는중...:rocket::rocket::rocket:", icon="✅")
     change_img("img/yawnCat.jpg", "하품하는 고양이")
     st.write("브레드가 기뻐합니다.")
+    st.write("브레드: 이야옹!!!!!")
 
 
 
